@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "786e68ba18a15385e837",
-    "url": "/robopals/static/css/main.07a542a3.chunk.css"
+    "revision": "081779398286991fc671",
+    "url": "/robopals/static/css/main.88453947.chunk.css"
   },
   {
-    "revision": "786e68ba18a15385e837",
-    "url": "/robopals/static/js/main.c1e1511e.chunk.js"
+    "revision": "081779398286991fc671",
+    "url": "/robopals/static/js/main.7cfac6b3.chunk.js"
   },
   {
     "revision": "85ca4ef05e834621cc56",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/robopals/static/media/SEGA.12a3db8b.woff"
   },
   {
-    "revision": "041b7282dac207ed954cec138af0ec4e",
+    "revision": "803dcabe50e6a521060b8be82925dd85",
     "url": "/robopals/index.html"
   }
 ];
